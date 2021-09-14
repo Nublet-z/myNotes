@@ -13,6 +13,7 @@ N | Subject
 
 ## LINUX作業系統實務 Practical LINUX Operating System (in CentOS7)
 Click the link listed below to read the notes
+
 Weekly Notes | Content
 -------------|--------
 [Week 1 (02-23-2021)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1) | [Linux Distribution](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1#linux-distribution-linux-distro) <br> [Other related notes (root and cd command)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1#Other-related-notes)
@@ -36,6 +37,7 @@ Weekly Notes | Content
 
 ## 系統程式 System Programming
 Click the link listed below to read the notes
+
 Time | Content
 -----|--------
 [Week 1](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1) | <ol> <li> [GCC](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gcc) </li> <li> [GNU Make](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gnu-make) </li> <li> [Using Make To Compile Program](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gnu-make) </li> </ol>
@@ -55,9 +57,14 @@ Time | Content
 
 <br>
 
+---
+
+<br>
+
 
 ## 伺服器架設 Server Setup (in CentOS7)
 For the full notes [click here](https://github.com/NubletZ/myNotes/allNotes/Server-Setup) or click the link listed below.
+
 Weekly Notes | Content
 -------------|--------
 [Week 1 (09/14/2021)](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md) | <ol> <li>[Attack A Server](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Attack-A-Server)</li> <li>[Defend Server From Attacker](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Defend-Server-From-Attacker)</li> </ol>
