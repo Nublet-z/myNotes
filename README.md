@@ -3,6 +3,7 @@ N | Subject
 --|---------
 1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System)
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
+3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-Server-Setup)
 
 <br>
 
@@ -10,9 +11,10 @@ N | Subject
 
 <br>
 
-## LINUX作業系統實務 Practical LINUX Operating System
-Date | Content
------|--------
+## LINUX作業系統實務 Practical LINUX Operating System (in CentOS7)
+Click the link listed below to read the notes
+Weekly Notes | Content
+-------------|--------
 [Week 1 (02-23-2021)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1) | [Linux Distribution](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1#linux-distribution-linux-distro) <br> [Other related notes (root and cd command)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-1#Other-related-notes)
 [Week 2 (02-30-2021)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2) | [Two Type of Cloning in VM](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#Two-Type-of-Cloning-in-VM-) <br> [Difference between VMware and VirtualBox](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#Difference-between-VMware-and-VirtualBox) <br> [Built internal network](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#Built-internal-network) <br> [Make Two Devices Communicating by Using Cloud](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#Make-Two-Devices-Communicating-by-Using-Cloud) <br> Linux Commands : <br> <ol><li>[Show the IP address](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#1-show-the-IP-address)</li><li>[Reset IP address modification](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#2-Reset-IP-address-modification)</li> <li>[Set IP address](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#3-Set-IP-address)</li><li>[Set new hostname](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-2#4-Set-new-hostname)</li></ol>
 [Week 3 (03-09-2021)](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3) | [Red Hat](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#Red-Hat) <br> [About IP 0.0.0.0](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#IP-0000) <br> How to : <br>  <ol><li>[Set up SSH passwordless login](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#1-Set-up-SSH-passwordless-login)</li><li>[Install VirtualBox Guest Additions in VMBox on CentOS and Red Hat](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#2-Install-VirtualBox-Guest-Additions-in-VMBox-on-CentOS-and-Red-Hat)</li></ol> Linux Command : <br> <ol> <li> [echo](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#1-echo) </li> <li> [Show file content](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#2-Show-file-content) </li> <li> [Create web server](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#3-Create-web-server) </li> <li> [Show current working directory](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#4-Show-current-working-directory) </li> </ol>
@@ -33,6 +35,7 @@ Date | Content
 
 
 ## 系統程式 System Programming
+Click the link listed below to read the notes
 Time | Content
 -----|--------
 [Week 1](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1) | <ol> <li> [GCC](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gcc) </li> <li> [GNU Make](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gnu-make) </li> <li> [Using Make To Compile Program](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week1#gnu-make) </li> </ol>
@@ -48,3 +51,13 @@ Time | Content
 [Week 11](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week11) | [execvp() and fork() Function in C/C++](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week11#execvp-and-fork-function-in-cc) <ol> <li>[execvp() Function](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week11#execvp-function)</li><li>[fork() Function](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week11#fork-function)</li><li>[Write C Program with execvp() and fork()](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week11#write-c-program-with-execvp-and-fork)</li> </ol>
 [Week 12](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12) | [I/O system Calls in C Program](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#io-system-calls-in-c-program) <ul> <li>[Standard File Descriptors](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#standard-file-descriptors)</li> <li>[I/O System Calls](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#io-system-calls) <ol> <li>[open](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#1-open)</li> <li>[read](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#2-read)</li> <li>[write](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#3-write)</li> </ol> </li> <li>[Sample Code](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week12#sample-code)</li> </ul>
 [Week 13](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week13) | [FIFO Named Pipe](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week13#fifo-named-pipe) <br> [Why Use FIFO?](https://github.com/NubletZ/sp109b/tree/nubletz/Notes/Week13#why-use-fifo)
+
+
+<br>
+
+
+## 伺服器架設 Server Setup (in CentOS7)
+For the full notes [click here](https://github.com/NubletZ/myNotes/allNotes/Server-Setup) or click the link listed below.
+Weekly Notes | Content
+-------------|--------
+[Week 1 (09/14/2021)](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md) | <ol> <li>[Attack A Server](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Attack-A-Server)</li> <li>[Defend Server From Attacker](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Defend-Server-From-Attacker)</li> </ol>
