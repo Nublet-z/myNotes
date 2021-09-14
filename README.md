@@ -1,9 +1,9 @@
 # TABLE OF CONTENT
 N | Subject
 --|---------
-1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System)
+1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System-in-centos7)
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
-3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-Server-Setup)
+3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup-in-centos7)
 
 <br>
 
