@@ -67,4 +67,4 @@ For the full notes [click here](https://github.com/NubletZ/myNotes/allNotes/Serv
 
 Weekly Notes | Content
 -------------|--------
-[Week 1 (09/14/2021)](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md) | <ol> <li>[Attack A Server](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Attack-A-Server)</li> <li>[Defend Server From Attacker](https://github.com/NubletZ/myNotes/allNotes/Server-Setup/Week1.md#Defend-Server-From-Attacker)</li> </ol>
+[Week 1 (09/14/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week1.md) | <ol> <li>[Attack A Server](https://https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week1.md#Attack-A-Server)</li> <li>[Defend Server From Attacker](https://https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week1.md#Defend-Server-From-Attacker)</li> </ol>
