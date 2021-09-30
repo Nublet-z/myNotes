@@ -1,4 +1,4 @@
-# Server Setup Week 2 (09/29/2021)
+# Server Setup Week 2 (09/28/2021)
 ## RPM
 rpm is a standard package manager software that profided by RedHat. If you want to use rpm to install software you need to install all of the library that it needs first. For example if your software need `library 2` and `library 3`, and `library 2` need `library 1`, then you need to install `library 1` first, then install `library 2` and `library 3`, and finaly install your software.
 
