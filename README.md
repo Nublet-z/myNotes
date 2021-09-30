@@ -12,7 +12,10 @@ N | Subject
 <br>
 
 ## LINUX作業系統實務 Practical LINUX Operating System (in CentOS7)
-Click the link listed below to read the notes
+Notes repository link :
+https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B
+
+Click the link listed below to read for specific part
 
 Weekly Notes | Content
 -------------|--------
@@ -36,6 +39,9 @@ Weekly Notes | Content
 
 
 ## 系統程式 System Programming
+Notes repository link :
+https://github.com/NubletZ/sp109b/tree/nubletz/Notes
+
 Click the link listed below to read the notes
 
 Time | Content
@@ -63,7 +69,10 @@ Time | Content
 
 
 ## 伺服器架設 Server Setup (in CentOS7)
-For the full notes [click here](https://github.com/NubletZ/myNotes/allNotes/Server-Setup) or click the link listed below.
+Full notes repository link :
+https://github.com/NubletZ/myNotes/tree/master/allNotes/Server-Setup
+
+ or click the link listed below.
 
 Weekly Notes | Content
 -------------|--------
