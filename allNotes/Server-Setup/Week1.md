@@ -68,3 +68,5 @@ ssh_exchange_identification: read: Connection reset by peer
 while in your device that being attacked if you write command `# cat /etc/hosts.deny` you will see the attacker IP address was written at the bottom.
 
 <img src="source/blockip.jpg" alt="hosts.deny" title="hosts.deny" width="400"><br>
+
+delete `sshd:192.168.1.2` to remove this IPaddress from blocked list.
