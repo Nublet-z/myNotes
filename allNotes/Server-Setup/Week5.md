@@ -1,5 +1,5 @@
 # Server Setup Week 5 (10/25/2021)
-## Shell Scrip
+## Shell Script
 shell Script is a program that is written to be run by Unix/Linux Shell. It's contain a series of commands for the shell to execute. As an example you can write a shell script that can help you to identify whether you are a user or a super user.
 
 First make a new file, name it as check.sh. You can use `$vim check.sh`, `$gedit check.sh` or other text editor. Write the following command in check.sh :
@@ -55,14 +55,14 @@ echo $RANDOM | md5sum | cut -c 1-9
 
 this way the output will be 9 characters
 
-### 4). Show environment variable
+### 3). Show environment variable
 To show the environment variable you can execute the following command
 
 ```
 $ env
 ```
 
-### 5). Set how many times to ping and its timeout
+### 4). Set how many times to ping and its timeout
 
 if you want to try ping once and set its timeout you can write the following code
 
@@ -74,7 +74,7 @@ $ ping -c 1 -W 1 8.8.8.8
 
 `-W` : set the timeout time in second
 
-### 6). test
+### 5). test
 test is a command that used to evaluates conditional expressions.
 
 ```
