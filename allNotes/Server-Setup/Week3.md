@@ -1,4 +1,4 @@
-# Server Setup Week 2 (09/04/2021)
+# Server Setup Week 3 (09/04/2021)
 ## SSH for Secure File Transfer
 SSH (Secure Shell) is a protocol that use to connect to other server securely. From the previous notes we have known about [how to set up SSH passwordless login](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-3#1-Set-up-SSH-passwordless-login) and [build SSH Tunel](https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B/Week-8#ssh-tunnel). In this chapter we will talk about how to transfer file securely using SSH. Before that we need to know that there are several type of encryption techniques in SSH to establish secure connections including : 
 
