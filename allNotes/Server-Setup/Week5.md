@@ -98,3 +98,33 @@ Arguments :
 `-d FileName` : check whether the file is directory
 
 `-L FileName` : check whether the file is link file
+
+Examples :
+
+```
+[root@nubletz tmp]$ b=""
+[root@nubletz tmp]$ test -n "$b"
+[root@nubletz tmp]$ echo $?
+1
+
+
+[root@nubletz tmp]$ a="123"
+[root@nubletz tmp]$ test -n "$a"
+[root@nubletz tmp]$ echo $?
+0
+
+#Notes : you need to use "..." instead of '...' or else it will always return 0
+
+[root@nubletz tmp]# a=123
+[root@nubletz tmp]# test "$a" == "$b"
+[root@nubletz tmp]# echo $?
+1
+
+[root@nubletz tmp]# test "$a"=="$b"
+[root@nubletz tmp]# echo $?
+0
+[root@nubletz tmp]# echo "$a"=="$b"
+123==
+
+#Notes : you need to give space, or else it will cause error
+```
