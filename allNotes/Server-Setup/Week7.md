@@ -1,6 +1,6 @@
 # Server Setup Week 7 (11/15/2021)
 ## How to Set Up NFS (Network File System)
-For this tutorial, I'll be using 2 devices. The first device `192.168.56.107` as the `server` and another device as the `client`. Create directory in server I'll name it `mynfs`, later we will mount this directory in client device. We need to install nfs in both device by using the following command:
+For this tutorial, I'll be using 2 devices. The first device `192.168.56.107` as the `server` and another device as the `client`. Create directory in server I'll name it `mynfs`, later we will mount this directory in client device and place it in `mydata` directory. We need to install nfs in both device by using the following command:
 
 ```
 sudo yum install nfs-utils
@@ -30,7 +30,7 @@ showmount -e 192.168.56.107
 sudo mount -t nfs 192.168.56.107:/mynfs  /mydata
 ```
 
-while to unmount it you can type `sudo umount /mynfs`.
+while to unmount it you can type `sudo umount /mydata`.
 
 ## Setting Up Network
 There are 2 different ways to set up network, by using NetworkManager or network. In Linux you only able to use one settings at a time. NetworkManager will do the setting automatically while network will let you do the setting manualy. To change the setting from NetworkManager into network, first you need to stop NetworkManager and then start the network:
