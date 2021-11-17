@@ -1,4 +1,4 @@
-# Server Setup Week 5 (10/25/2021)
+# Server Setup Week 6 (11/08/2021)
 ## Shell Script Conditional Statements
 In Linux shell you also can execute a conditional statements and print the result using `echo $?` to see whether the execution was executed successfully or not. The output 0 means the condition statements is true while returning other number means the statements are incorrect.
 You can write conditional statements by using a single `[` or double `[[`, there are some different on how to write the condition if you use `[` or `[[`.
