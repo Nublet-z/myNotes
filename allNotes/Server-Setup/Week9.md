@@ -13,7 +13,7 @@ Load balancing can be performed in `layer 4` and `layer 7`.
 ## Set up HAProxy 
 First we need to prepare 3 device virtual machine, for example `192.168.56.107` as a device where we will set up HAProxy, `192.168.56.105` and `192.168.56.106` as server. 
 
-<img src="source/HAProxy.png" alt="webPage show" title="webPage show" width="350"><br>
+<img src="source/HAProxy.png" alt="webPage show" title="webPage show" width="600"><br>
 
 First we need to make sure that http is running in both server by execute command `sudo systemctl start httpd` and make sure that all device's security was disabled, check it by type `getenforce`.
 
