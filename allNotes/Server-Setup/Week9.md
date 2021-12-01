@@ -76,8 +76,8 @@ frontend http_front
 
 backend http_back
   balance roundrobin
-  server server_name1 192.168.153.151:80 check
-  server server_name2 192.168.153.152:80 check
+  server server_name1 192.168.56.105:80 check
+  server server_name2 192.168.56.106:80 check
 ```
 
 After that restart the haproxy `sudo systemctl restart haproxy` and make sure if haproxy already run. If you've successfully done the above steps then in your browser if you go to `192.168.56.107` you will see `centos 7-1` and `centos 7-2` keep changing whenever you refresh the page.
