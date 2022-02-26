@@ -1,10 +1,10 @@
 # TABLE OF CONTENT
 N | Subject
 --|---------
-1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System-in-centos7)
+1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System)
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
-3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup-in-centos7)
-4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System]()
+3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup)
+4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System](https://github.com/NubletZ/myNotes#linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD-automatic-operation-and-maintenance-for-linux-system)
 
 <br>
 
@@ -12,7 +12,9 @@ N | Subject
 
 <br>
 
-## LINUX作業系統實務 Practical LINUX Operating System (in CentOS7)
+## LINUX作業系統實務 Practical LINUX Operating System
+Based on CentOS7
+
 Notes repository link :
 https://github.com/NubletZ/LinuxOS_Notes/tree/nubletz/109%E4%B8%8B
 
@@ -69,7 +71,9 @@ Time | Content
 <br>
 
 
-## 伺服器架設 Server Setup (in CentOS7)
+## 伺服器架設 Server Setup
+Based on CentOS7
+
 Full notes repository link :
 https://github.com/NubletZ/myNotes/tree/master/allNotes/Server-Setup
 
