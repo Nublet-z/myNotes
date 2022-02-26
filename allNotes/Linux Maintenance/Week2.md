@@ -2,7 +2,7 @@
 ## Enable HTTPS on Apache
 After hosting a website using IPv6 from our last notes, this time we will enable HTTPS on our website. It's important to enable encrypted HTTPS in our website, so that user can browse our website securely. In order to do that, we need to install certbot, a software that would automates most of the steps.
 ### Step 1. Installing Certbot
-We need to install `Certbot` and `mod_ssl`, and also make sure that you have Apache installed, if you have not installed it yet then you need to [install Apache]() first. The certbot package is not available through package manager by default. So to install it we need to enable EPEL repository.
+We need to install `Certbot` and `mod_ssl`, and also make sure that you have Apache installed, if you have not installed it yet then you need to [install Apache](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week6.md#Install-Apache) first. The certbot package is not available through package manager by default. So to install it we need to enable EPEL repository.
 
 ```
 $ sudo yum install epel-release mod_ssl certbot

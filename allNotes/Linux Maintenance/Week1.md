@@ -28,4 +28,4 @@ Next check whether you can access your website by using IPv6. If you want to acc
 
 <img src="source/(w1)cnewZone.PNG" alt="Network Settings" title="Network Settings" width="500"><br>
 
-Try to access your website by using the link given, for example `domainname.dynv6.net`. If you can access your website through it, that means you've successfuly host your website by using [dynv6](https://dynv6.com/). But if you have not enable `HTTPS`, you will only able to access your website through `HTTP`. In the next chapter we will learn about [how to enable HTTPS in Apache]().
+Try to access your website by using the link given, for example `domainname.dynv6.net`. If you can access your website through it, that means you've successfuly host your website by using [dynv6](https://dynv6.com/). But if you have not enable `HTTPS`, you will only able to access your website through `HTTP`. In the next chapter we will learn about [how to enable HTTPS on Apache](https://github.com/NubletZ/myNotes/blob/master/allNotes/Linux%20Maintenance/Week2.md#automatic-operation-and-maintenance-for-linux-system-week-2-02232022).
