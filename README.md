@@ -4,6 +4,7 @@ N | Subject
 1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System-in-centos7)
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
 3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup-in-centos7)
+4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System]()
 
 <br>
 
@@ -85,3 +86,13 @@ Week 4 (10/18/2021) | [Kali Metasploit Exploit FTP Service on VSFTPD - Johnny Ne
 [Week 7 (11/15/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week7.md#server-setup-week-7-11152021) | [How to Set Up NFS (Network File System)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week7.md#How-to-Set-Up-NFS-Network-File-System) <br> [Setting Up Network](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week7.md#Setting-Up-Network) <br> Command : <br> <li> <ol>[exportfs](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week7.md#1-exportfs)</ol> </li>
 [Week 8 (11/22/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#server-setup-week-8-11222021) | [SAMBA](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#SAMBA) <br> [Service Type in Linux](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#Service-Type-in-Linux) <br> Command : <br> <li> <ol>[parameter in ping](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#1-parameter-in-ping)</ol> <ol>[traceroute](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#2-traceroute)</ol> <ol>[netstat](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week8.md#3-netstat)</ol> </li>
 [Week 9 (11/29/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#server-setup-week-9-11292021) | [Load Balancer](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#load-balancer) <br> [Set up HAProxy](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#set-up-haproxy)
+[Week 10 (12/06/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#server-setup-week-10-12062021) | [Install and Set Up xinetd Server](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#install-and-set-up-xinetd-server) <br> [Linux Scheduling](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#linux-scheduling) <br> [HTTP :](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#http) <br> <ul> <li>[HTTP request methods](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#http-request-methods)</li> <li>[Make home page for each user in website](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#make-home-page-for-each-user-in-website)</li> <li>[Make html file that is not in /etc/var/www/html accessible in browser](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#make-html-file-that-is-not-in-etcvarwwwhtml-accessible-in-browser)</li> </ul>
+[Week 11 (12/13/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#server-setup-week-11-12132021) | [FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#ftp) <br> [Install and Set Up FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#install-and-set-up-ftp) <br> [Public Sharing With FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#public-sharing-with-ftp) <br> [Command in FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#command-in-ftp)
+[Week 12 (12/20/2021)]() |
+
+## Linux系統自動化運維 Automatic Operation and Maintenance for Linux System
+
+Weekly Notes | Content
+-------------|--------
+[Week 1 (02/16/2022)]() | 
+[Week 2 (02/23/2022)]() |

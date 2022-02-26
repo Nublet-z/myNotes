@@ -30,7 +30,7 @@ sudo chmod 777 pub
 ```
 after that you also need to edit `/etc/vsftpd/vsftpd.conf`, uncomment `chroot_local_user=YES` and add this line `allow_writeable_chroot=YES`. This way user can upload and download file into your directory.
 
-While to enable specific user from accessing your directory, add their username into `/etc/vsftpd/user_list`
+While to disable specific user from accessing your directory, add their username into `/etc/vsftpd/user_list`
 
 Need to be noted that transmission have two category, `ASCII mode` and `binary mode`. for text file you can transfer it using ASCII or binary, while for picture you can only use binary mode. so remember to change the transfer mode into binary by typing command `bin` in ftp.
 
