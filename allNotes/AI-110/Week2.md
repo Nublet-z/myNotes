@@ -64,7 +64,7 @@ def hillClimbing(l1,l2,dataX,dataY,state=0):
         return m, c, err_Score
 ```
 
-As you can see from the code above I use `state` variable to devine the direction of my current point. So, for example if it went down then it would not compare the current data with the last data.
+As you can see from the code above I use `state` variable to define the direction of my current point. So, for example if it went down then it would not compare the current data with the last data.
 
 To know the solution accuracy, I count the total distance between each of my predicted y point with the original y point.
 
