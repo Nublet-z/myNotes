@@ -248,6 +248,8 @@ y_predicted= [1.899999976158142, 2.957499934434891, 4.01499989271164, 5.07249985
 
 For the full code please refer to this [link](https://github.com/NubletZ/ai110b/tree/master/Homework/HillClimbing).
 
+Any advices are welcomed, I'm still learning.
+
 ---
 
 ## Reference
