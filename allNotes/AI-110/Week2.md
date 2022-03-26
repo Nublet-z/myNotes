@@ -246,6 +246,19 @@ y_predicted= [1.899999976158142, 2.957499934434891, 4.01499989271164, 5.07249985
 <p>Graphic:</p>
 <img src="source/(w2)figure.PNG" alt="Hosting DB" title="Hosting DB" width="400">
 
+<br>
+
+While for point `[0,2]`, `[1,3]`, `[2,4]`, `[3,5]`, `[4,6]`, the final solution output and graphic would be as shown below :
+
+```
+=== FINAL SOLUTION ===
+solution: m=1.000000 c=2.000000
+loss= 0.0
+y_predicted= [2.0, 3.0, 4.0, 5.0, 6.0]
+```
+
+<img src="source/(w2)figureOri.PNG" alt="Hosting DB" title="Hosting DB" width="400">
+
 For the full code please refer to this [link](https://github.com/NubletZ/ai110b/tree/master/Homework/HillClimbing).
 
 Any advices are welcomed, I'm still learning.

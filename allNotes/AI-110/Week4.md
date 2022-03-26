@@ -1,0 +1,2 @@
+## Depth First Search (DFS) Algorithm
+Depth first search (DFS) algorithm is an algorithm for traversing or searching tree or graph data structures. It will start with the initial node of the graph, and then goes deeper until it reach the end node, before it then backtracks to the most recent unexplored node.

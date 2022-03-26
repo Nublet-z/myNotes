@@ -5,7 +5,7 @@ N | Subject
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
 3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup)
 4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System](https://github.com/NubletZ/myNotes#linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD-automatic-operation-and-maintenance-for-linux-system)
-
+5 | [人工智能 Artificial Intelligence]()
 <br>
 
 ---
@@ -92,7 +92,12 @@ Week 4 (10/18/2021) | [Kali Metasploit Exploit FTP Service on VSFTPD - Johnny Ne
 [Week 9 (11/29/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#server-setup-week-9-11292021) | [Load Balancer](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#load-balancer) <br> [Set up HAProxy](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week9.md#set-up-haproxy)
 [Week 10 (12/06/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#server-setup-week-10-12062021) | [Install and Set Up xinetd Server](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#install-and-set-up-xinetd-server) <br> [Linux Scheduling](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#linux-scheduling) <br> [HTTP :](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#http) <br> <ul> <li>[HTTP request methods](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#http-request-methods)</li> <li>[Make home page for each user in website](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#make-home-page-for-each-user-in-website)</li> <li>[Make html file that is not in /etc/var/www/html accessible in browser](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week10.md#make-html-file-that-is-not-in-etcvarwwwhtml-accessible-in-browser)</li> </ul>
 [Week 11 (12/13/2021)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#server-setup-week-11-12132021) | [FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#ftp) <br> [Install and Set Up FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#install-and-set-up-ftp) <br> [Public Sharing With FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#public-sharing-with-ftp) <br> [Command in FTP](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week11.md#command-in-ftp)
-[Week 12 (12/20/2021)]() | [Make User Login Before Accessing Webpage](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week12.md#make-user-login-before-accessing-webpage) <br> [Set Up Virtual Host to Enable Multiple Website in One Device](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week12.md#set-up-virtual-host-to-enable-multiple-website-in-one-device) <br> 
+[Week 12 (12/20/2021)]() | [Make User Login Before Accessing Webpage](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week12.md#make-user-login-before-accessing-webpage) <br> [Set Up Virtual Host to Enable Multiple Website in One Device](https://github.com/NubletZ/myNotes/blob/master/allNotes/Server-Setup/Week12.md#set-up-virtual-host-to-enable-multiple-website-in-one-device) 
+<br> 
+
+---
+
+<br> 
 
 ## Linux系統自動化運維 Automatic Operation and Maintenance for Linux System
 Based on CentOS7
@@ -106,3 +111,20 @@ Weekly Notes | Content
 -------------|--------
 [Week 1 (02/16/2022)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Linux%20Maintenance/Week1.md#automatic-operation-and-maintenance-for-linux-system-week-1-02162022) | [Hosting Website Using IPv6](https://github.com/NubletZ/myNotes/blob/master/allNotes/Linux%20Maintenance/Week1.md#hosting-website-using-ipv6)
 [Week 2 (02/23/2022)](https://github.com/NubletZ/myNotes/blob/master/allNotes/Linux%20Maintenance/Week2.md#automatic-operation-and-maintenance-for-linux-system-week-2-02232022) | [Enable HTTPS on Apache](https://github.com/NubletZ/myNotes/blob/master/allNotes/Linux%20Maintenance/Week2.md#enable-https-on-apache)
+
+<br> 
+
+---
+
+<br> 
+
+## 人工智能 Artificial Intelligence
+Full notes repository link :
+https://github.com/NubletZ/myNotes/tree/master/allNotes/AI-110
+
+or click the link listed below
+
+Weekly Notes | Content
+-------------|--------
+[Week 1](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week1.md) | [Introduction to Artificial Intelligence (AI)](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week1.md#introduction-to-artificial-intelligence-ai)
+[Week 2](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week2.md) | [Hill Climbing Algorithm](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week2.md#hill-climbing-algorithm) <br> [Applied Hill Climbing to Linear Regression](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week2.md#applied-hill-climbing-to-linear-regression)
