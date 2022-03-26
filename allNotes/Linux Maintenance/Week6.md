@@ -71,53 +71,10 @@ or
 
 to exclude specific file type. You also can backup for specific file with have specific size by defining its `--min-size` and `--max-size`.
 
-you also can change the rsyncd.conf by editting the file /etc/rsyncd.conf
-
-add this several line at the end of the file
-```
-uid=root
-gid=root
-pid file = /var/run/rsyncd.pid
-log file = /var/log/rsyncd.log
-secrets file = /etc/rsyncd.passwd
-
-[mod1]
-   path = /backup1
-   read only = no
-   auth users = vuser
-```
-
-pid file = if you run rsync it will have pid. by the above settings it will be saved in /var/run/rsyncd.pid
-
-
-[root@192-168-1-199 ~]# rsync -avzu --progress --password-file=/root/rsync_user.passwd /tmp/windows7.iso rsync_user@192.168.1.10::my_storage
-
-
 
 for inotify
 https://segmentfault.com/a/1190000018096553
-basicaly when we need to backup we should do it manualy, but we wat to do automaticaly. using inotify to monitor
-
--m:monitor
--r:recursive
-
-# yum install inotify-tools
-# inotifywait -mrq /home/user/testdir --timefmt "%d-%m-%y %H:%M" --format "%T %w%f" -e create,modify,delete,move
-
-create backup.sh in /home/user
-```
-#!/bin/bash
-path=/home/user/testdir
-server=ipaddress
-
-inotifywait -mrq $path --timefmt "%d-%m-%y %H:%M" --format "%w%f" -e create,modifydelete,move | while read line
-do
-	if [-f $line ];then
-		echo $line
-		rsync -az --delete $line vuser@$server::mod1 --password-file=/etc/rsync_vuser.passwd
-	fi
-done
-```
+basicaly when we need to backup we should do it manualy, but we wat to do automaticaly. using inotify to monitor whether there is any change or not.
 
 ## COMMAND
 #### `# rsync`
