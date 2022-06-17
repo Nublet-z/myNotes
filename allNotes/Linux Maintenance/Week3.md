@@ -7,7 +7,7 @@ docker has 3 name :
 ## Network Namespace
 There are several isolation techniques in Linux including UTS, IPC, Network, PID, Mount, and User isolation. In this part we will try the network namespace isolation with communication between the two namespace shown as the picture below.
 
-<img src="source/(w3)networkNamespace.png" alt="Network Settings" title="Network Settings" width="400"><br>
+<img src="source/(w3)networkNamespace.PNG" alt="Network Settings" title="Network Settings" width="400"><br>
 
 ### 1. creates a network namespace
 ```

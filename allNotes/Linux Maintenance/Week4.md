@@ -49,17 +49,17 @@ After that try to run docker http on specific port, for example we host the dock
 
 from the last command it will show an output of your docker ID, try to access it by typing `# docker exec -it [ID] bash`. 
 
-<img src="source/(w4)dockerIndex.png" alt="docker images" title="docker images" width="400"><br>
+<img src="source/(w4)dockerIndex.PNG" alt="docker images" title="docker images" width="400"><br>
 
 Change directory into `htdocs` and you will find `index.html` file. Open your browser and access that port, you will see something like this :
 
-<img src="source/(w4)dockerWebsite.png" alt="docker images" title="docker images" width="400"><br>
+<img src="source/(w4)dockerWebsite.PNG" alt="docker images" title="docker images" width="400"><br>
 
 
 ### Push and pull docker to dockerHub
 Make sure that you have create an account on `Docker Hub` after that type `# docker login` and input your account data.
 
-<img src="source/(w4)dockerImages.png" alt="docker images" title="docker images" width="400"><br>
+<img src="source/(w4)dockerImages.PNG" alt="docker images" title="docker images" width="400"><br>
 
 For example if we want to push busybox repository to `nubletz` Docker Hub then we need to type this several command :
 
@@ -67,7 +67,7 @@ For example if we want to push busybox repository to `nubletz` Docker Hub then w
 # docker tag busybox:latest nubletz/busybox:latest
 ```
 
-<img src="source/(w4)dockerImages2.png" alt="docker images" title="docker images" width="400"><br>
+<img src="source/(w4)dockerImages2.PNG" alt="docker images" title="docker images" width="400"><br>
 
 Now if we execute docker images command, we will see `nubletz/busybox` repository. Push the repository by typing the following command :
 

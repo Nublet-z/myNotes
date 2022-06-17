@@ -1,4 +1,4 @@
-# Automatic Operation and Maintenance for Linux System (Week 7 03/23/2022)
+# Automatic Operation and Maintenance for Linux System (Week 7 03/30/2022)
 
 ## Update Kernel
 To update kernel we can download the resource from this website https://www.kernel.org/. This time we will try to install kernel version 4.19.237.
