@@ -135,5 +135,3 @@ hello world
 
 #### `# ifconfig enp0s8 | grep netmask | awk '{print $2}'`
 use to print your ipaddress
-
-#### 

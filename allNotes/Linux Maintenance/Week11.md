@@ -36,7 +36,7 @@ go back to prometheus query search and search for count_netstat_wait_connection,
 #!/bin/bash
 
 # For waiting connections
-label="check_httpd_centos7_2" #when writing name, don't use -
+label="httpd_status_centos7_2" #when writing name, don't use -
 curl -q http://192.168.56.136 > /dev/null 2>&1
 status=`echo $?`
 if [ $status -eq 0 ];then
@@ -47,18 +47,33 @@ fi
 echo "$label $result" | curl --data-binary @- http://192.168.56.135:9091/metrics/job/pushgateway/instance/$instance_name
 ```
 
-3. `# (install HTTPD)`
-4. `# curl http://192.168.56.136 > /dev/null`
+3. install http into your device and start it
+4. run the program `# ./check_httpd_centos7_2.sh`
+now if you try to turn on and off your http, it will be recorded to phrometheus
+
+<img src="source/(w11)http0.PNG" alt="" title="haproxy" width="400"><br>
+
+<img src="source/(w11)http1.PNG" alt="" title="haproxy" width="400"><br>
+
+Next you also can see the graph status from grafana by creating a new dashboard and do this several steps:
+1. open grafana `localhost:3000`
+2. create new graph
+3. insert query "httpd_status_centos7_2"
+4. save dashboard
+
+<img src="source/(w11)GrafanaGraph.PNG" alt="" title="haproxy" width="400"><br>
 
 ## Make the Program to Run Periodicaly (every 1 min)
 We already write a program that send the status of waiting conection and HTTP status to prometheus. We can enable the program to run automaticaly by using crontab in linux. 
 1. `# crontab -e`
+
 ```
 * * * * * /app/scripts/pushgateway/check_httpd_centos7_2.sh
 * * * * * sleep 15;/app/scripts/pushgateway/check_httpd_centos7_2.sh
 * * * * * sleep 30;/app/scripts/pushgateway/check_httpd_centos7_2.sh
 * * * * * sleep 45;/app/scripts/pushgateway/check_httpd_centos7_2.sh
 ```
+
 2. `# crontab -l` to check for the current running crontab
 
 

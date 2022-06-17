@@ -1,4 +1,4 @@
-## Problems Hill Climbing
+## Problems in Hill Climbing
 There are several problem in applying hill climbing algorithm
 
 ### 1. Local maximum
