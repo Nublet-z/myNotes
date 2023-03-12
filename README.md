@@ -5,7 +5,7 @@ N | Subject
 2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
 3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup)
 4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System](https://github.com/NubletZ/myNotes#linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD-automatic-operation-and-maintenance-for-linux-system)
-5 | [人工智能 Artificial Intelligence]()
+5 | [人工智能 Artificial Intelligence](https://github.com/NubletZ/myNotes/tree/master/allNotes/AI-110)
 <br>
 
 ---

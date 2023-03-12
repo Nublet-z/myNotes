@@ -72,9 +72,10 @@ or
 to exclude specific file type. You also can backup for specific file with have specific size by defining its `--min-size` and `--max-size`.
 
 
-for inotify
+refer to this website for inotify:
 https://segmentfault.com/a/1190000018096553
-basicaly when we need to backup we should do it manualy, but we wat to do automaticaly. using inotify to monitor whether there is any change or not.
+
+basicaly when we need to backup we should do it manualy, but we want to do automaticaly. using inotify to monitor whether there is any change or not.
 
 ## COMMAND
 #### `# rsync`

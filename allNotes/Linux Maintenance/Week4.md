@@ -75,7 +75,7 @@ Now if we execute docker images command, we will see `nubletz/busybox` repositor
 # docker push nubletz/busybox:latest
 ```
 
-<img src="source/(w4)dockerHub.png" alt="docker images" title="docker images" width="500"><br>
+<img src="source/(w4)dockerHub.PNG" alt="docker images" title="docker images" width="500"><br>
 
 Go to check you docker hub and you will find the repository that you have just pushed. If you delete your local repository and want to pull it from Docker Hub then execute this command :
 
