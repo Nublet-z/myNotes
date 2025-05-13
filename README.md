@@ -159,7 +159,7 @@ Skills : `Unity`, `C#`
 
 An old man has died of poisoning. A young boy vanished without a trace. Now, a girl has gone missing. With no clear leads and time running out, it's up to you—Mr. Ninja—to uncover the truth. You have just three days before the case is closed for good. Will you solve the mystery, or will the city’s secrets remain buried?
 
-<video src='./resource/MrNinja Game.mp4' width=720></video>
+![hippo](./resource/MrNinja.gif)
 
 #### Game feature
 
@@ -186,7 +186,7 @@ Skills : `Unity`, `C#`
 
 Step into a handcrafted world of mystery and wonder. In this open-world action-adventure, you'll guide your character through the journey, challenge powerful bosses, and unravel puzzles hidden across the mysterious forest. (Built on open-source foundations)
 
-<video src='./resource/Genshin Wannabe.mp4' width=720></video>
+![hippo](./resource/GenshinWannabe.gif)
 
 ---
 ### 2. Ooblets
@@ -197,8 +197,4 @@ A unique game that blends the thrill of a slot machine with the strategy of a me
 
 The pictures used are from [Ooblets](https://ooblets.com/)'s collection, consider to check their game as well :)
 
-<video src='./resource/Ooblets Game.mp4' width=720></video>kill to the test!
-
-The pictures used are from [Ooblets](https://ooblets.com/)'s collection, consider to check their game as well :)
-
-<video src='./resource/Ooblets Game.mp4' width=720></video>
+![hippo](./resource/Ooblets.gif)
