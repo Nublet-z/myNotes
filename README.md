@@ -1,11 +1,12 @@
 # TABLE OF CONTENT
 N | Subject
 --|---------
-1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/NubletZ/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System)
-2 | [系統程式 System Programming](https://github.com/NubletZ/myNotes#系統程式-System-Programming)
-3 | [伺服器架設 Server Setup](https://github.com/NubletZ/myNotes#伺服器架設-server-setup)
-4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System](https://github.com/NubletZ/myNotes#linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD-automatic-operation-and-maintenance-for-linux-system)
-5 | [人工智能 Artificial Intelligence](https://github.com/NubletZ/myNotes/tree/master/allNotes/AI-110)
+1 | [LINUX作業系統實務 Practical LINUX Operating System](https://github.com/Nublet-Z/myNotes#LINUX作業系統實務-Practical-LINUX-Operating-System)
+2 | [系統程式 System Programming](https://github.com/Nublet-Z/myNotes#系統程式-System-Programming)
+3 | [伺服器架設 Server Setup](https://github.com/Nublet-Z/myNotes#伺服器架設-server-setup)
+4 | [Linux系統自動化運維 Automatic Operation and Maintenance for Linux System](https://github.com/Nublet-Z/myNotes#linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD-automatic-operation-and-maintenance-for-linux-system)
+5 | [人工智能 Artificial Intelligence](https://github.com/Nubletz/myNotes/tree/master/allNotes/AI-110)
+6 | [游戲程式設計 Game Programming](https://github.com/Nublet-Z/myNotes#游戲程式設計-Game-Programming)
 <br>
 
 ---
@@ -144,3 +145,60 @@ Weekly Notes | Content
 [Notes 6](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork) | [Neural Network](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#neural-network) <br> [Key Components of Neural Network](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#key-components-of-neural-network) <br> [The Importance of Using Activation Function](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#the-importance-of-using-activation-function) <br> [Most Commonly Used Activation Functions](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#most-commonly-used-activation-functions) <ol> <li>[Step Function](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#1-step-function)</li> <li>[Sigmoid Function](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#2-sigmoid-function)</li> <li>[ReLU Function](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#3-relu-function)</li> </ol>[Implementation of Neural Network](https://github.com/NubletZ/ai110b/tree/master/Homework/NeuralNetwork#implementation-of-neural-network)
 [Notes 7](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week6.md) | [Introduction to Recurrent Neural Networks (RNN)](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week5.md#Introduction-to-Recurrent-Neural-Networks-RNN)<br>[How RNN Work](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week5.md#How-RNN-Work)
 [Notes 8](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week10.md) | [Do you know AlphaCode?](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week10.md#Do-you-know-AlphaCode) <br> [Overview of AlphaCode](https://github.com/NubletZ/myNotes/blob/master/allNotes/AI-110/Week10.md#Overview-of-AlphaCode)
+<br> 
+
+---
+
+<br> 
+
+## 游戲程式設計 Game Programming
+These games were developed for the class project only (non-profit).
+### 1. Mr. Ninja
+
+Skills : `Unity`, `C#`
+
+An old man has died of poisoning. A young boy vanished without a trace. Now, a girl has gone missing. With no clear leads and time running out, it's up to you—Mr. Ninja—to uncover the truth. You have just three days before the case is closed for good. Will you solve the mystery, or will the city’s secrets remain buried?
+
+<video src='./resource/MrNinja Game.mp4' width=720></video>
+
+#### Game feature
+
+1. The game has 3 different endings
+2. Different Background Music for each place
+3. Player can gather money from killing slime or the BossFroggo
+4. Player can buy things from the ToadShop
+5. There are 2 evidences that need to be collected in order to capture the culprit
+6. Player can interact with NPC and some item
+7. Player can skip the day by entering the house and interact with the bookself
+
+#### Reference
+
+- Template design : https://pixel-boy.itch.io/ninja-adventure-asset-pack
+- Start background : https://www.pinterest.com/pin/57983913930215645/
+- Background music by 陳致逸@HOYO-MiX
+- BossFroggo music : Beautiful   Chinese   Music   Rapid   As   Wildfires   by Yu-peng  Chen   (陳致逸@HOYO-MiX) | Cover: 小胡仙兒
+- Blood image : https://www.pngegg.com/en/png-bncbw
+
+---
+### 2. LimboURP
+
+Skills : `Unity`, `C#`
+
+Step into a handcrafted world of mystery and wonder. In this open-world action-adventure, you'll guide your character through the journey, challenge powerful bosses, and unravel puzzles hidden across the mysterious forest. (Built on open-source foundations)
+
+<video src='./resource/Genshin Wannabe.mp4' width=720></video>
+
+---
+### 2. Ooblets
+
+Skills : `WPF`, `C#`, `Visual Studio`, `Blend for Visual Studio`
+
+A unique game that blends the thrill of a slot machine with the strategy of a memory card match. Spin the reels to earn rewards, then test your focus in the paired card game to unlock special bonuses and hidden prizes. Whether you're feeling lucky or sharp-eyed, this game puts both your chance and skill to the test!
+
+The pictures used are from [Ooblets](https://ooblets.com/)'s collection, consider to check their game as well :)
+
+<video src='./resource/Ooblets Game.mp4' width=720></video>kill to the test!
+
+The pictures used are from [Ooblets](https://ooblets.com/)'s collection, consider to check their game as well :)
+
+<video src='./resource/Ooblets Game.mp4' width=720></video>
